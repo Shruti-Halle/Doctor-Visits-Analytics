@@ -64,4 +64,7 @@ jupyter notebook Doctor_Visit_Analytics.ipynb
 ```
 
 ## Author
-Shruti Halle | [GitHub](https://github.com/YOUR_USERNAME)
+Shruti Halle | [GitHub](https://github.com/Shruti-Halle) 
+
+---
+⭐ Star this repo and 🤝 connect with me on [LinkedIn](https://www.linkedin.com/in/shruti-halle)
